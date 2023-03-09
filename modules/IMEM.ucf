@@ -1,0 +1,18 @@
+
+
+NET "instruction[7]" LOC = P130;
+NET "instruction[0]" LOC = P120;
+NET "instruction[6]" LOC = P129;
+NET "instruction[5]" LOC = P127;
+NET "instruction[4]" LOC = P126;
+NET "instruction[3]" LOC = P125;
+NET "instruction[2]" LOC = P124;
+NET "instruction[1]" LOC = P121;
+NET "Read_Address[7]" LOC = P105;
+NET "Read_Address[0]" LOC = P96;
+NET "Read_Address[1]" LOC = P98;
+NET "Read_Address[6]" LOC = P104;
+NET "Read_Address[5]" LOC = P103;
+NET "Read_Address[4]" LOC = P102;
+NET "Read_Address[3]" LOC = P101;
+NET "Read_Address[2]" LOC = P99;
